@@ -4,6 +4,15 @@ from django.contrib import admin
 from .models import SignUp
 
 class SignUpAdmin(admin.ModelAdmin):
+    """Class Def for administration signups.
+
+    Args:
+        admin.ModelAdmin: loads the controller for the model of
+        an administrator data object
+
+    Returns:
+        None
+    """
     class Meta:
         model = SignUp
         
