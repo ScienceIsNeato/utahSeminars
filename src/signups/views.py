@@ -1,3 +1,6 @@
+"""This very fancy doc string shows how this file works."""
+
+
 if __name__ == '__main__':
     
     from django.shortcuts import render, render_to_response, RequestContext

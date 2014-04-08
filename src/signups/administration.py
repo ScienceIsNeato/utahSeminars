@@ -1,6 +1,3 @@
-"""
-You are garbage
-"""
 if __name__ == '__main__':
     from django.contrib import admin
     

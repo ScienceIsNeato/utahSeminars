@@ -1,3 +1,5 @@
+"""This very VERY fancy doc string shows how this file works."""
+
 if __name__ == '__main__':
    
    from django import forms

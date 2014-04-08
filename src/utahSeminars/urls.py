@@ -1,3 +1,16 @@
+"""
+This module controls the urls in the project.
+
+Also note that within this documentation there can be
+
+HEADINGS
+========
+
+and
+
+other stuff
+-----------
+"""
 if __name__ == '__main__':
     from django.conf.urls import patterns, include, url
     from django.conf import settings

@@ -4,7 +4,5 @@ Project Modules
 .. toctree::
    :maxdepth: 4
 
-   conf
-   generate_modules
    src.signups
    src.utahSeminars
