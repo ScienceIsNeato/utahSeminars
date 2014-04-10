@@ -1,3 +1,10 @@
+"""
+This module houses the forms used to...
+    - Sign up users
+    - Add events to the database
+    - Query the databsae
+"""
+
 if __name__ == '__main__':
 
     from django.db import models

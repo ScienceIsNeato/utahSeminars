@@ -1,4 +1,4 @@
-"""This very VERY fancy doc string shows how this file works."""
+"""Simple python script to add a signup form to the main page."""
 
 if __name__ == '__main__':
    

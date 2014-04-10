@@ -1,4 +1,4 @@
-"""This very fancy doc string shows how this file works."""
+""" This module houses the main entry point for the user. """
 
 
 if __name__ == '__main__':

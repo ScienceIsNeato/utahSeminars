@@ -8,8 +8,8 @@ HEADINGS
 
 and
 
-other stuff
------------
+sub-headings
+------------
 """
 if __name__ == '__main__':
     from django.conf.urls import patterns, include, url
