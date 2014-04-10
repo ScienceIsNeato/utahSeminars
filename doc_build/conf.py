@@ -19,6 +19,7 @@ import os
 # add these directories to sys.path here. If the directory is relative to the
 # documentation root, use os.path.abspath to make it absolute, like shown here.
 sys.path.insert(0, os.path.join("/Users/Pacey/Desktop/Django_Project"))
+print sys.path
 #sys.path.insert(0, os.path.join("/Users/Pacey/Desktop/Django_Project/src"))
 #sys.path.insert(0, os.path.join("/Users/Pacey/Desktop/Django_Project/src/utahSeminars"))
 #sys.path.insert(0, os.path.abspath('../src'))
